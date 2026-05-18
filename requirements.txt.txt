@@ -1,0 +1,15 @@
+flask
+fastapi
+uvicorn
+requests
+python-dotenv
+openai
+gunicorn
+
+smtplib (built-in, don't include)
+twilio
+sendgrid
+
+beautifulsoup4
+selenium
+httpx
